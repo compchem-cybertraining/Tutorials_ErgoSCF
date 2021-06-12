@@ -1,0 +1,9 @@
+SLURM_JOBID=6468112
+SLURM_JOB_NODELIST=cpn-p27-31
+SLURM_NNODES=1
+SLURMTMPDIR=/scratch/6468112
+working directory=/projects/academic/cyberwksp21/Instructors_material/alexeyak/ergoscf/ex2
+ The MKL Libraries are in your library path. This is adequate for compiling and
+running most codes. Source $MKL/bin/mklvars.sh" for more features. 
+NPROCS=1
+./run.sh: line 24: warning: here-document at line 1 delimited by end-of-file (wanted `EOINPUT')
